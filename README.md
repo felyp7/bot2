@@ -22,7 +22,6 @@
  | rcolor |  | Gives you a random Hex-Code | User 
  | restart |  | Restarts the bot | Developer
  | echo |  | repeat your message | Developer 
- | spam |  | spams something into the chat (max size 300) | <img src="https://static-cdn.jtvnw.net/badges/v1/5527c58c-fb7d-422d-b71b-f309dcb85cc1/1" width="25" height="25" /> <img src="https://static-cdn.jtvnw.net/badges/v1/3267646d-33f0-4b17-b3df-f923a41db1d0/1" width="25" height="25" />
  | subage | sa | Check your Subage | User 
  | subemotes |  | Shows you all subemote of a streamer | user  
  | uptime |  | Shows the uptime of the stream | User 
