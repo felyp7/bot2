@@ -9,7 +9,6 @@
  | 7tvsearch |  | Search an emote on the 7TV website | User 
  | accage |  |Check Accountage of you or other users | User  
  | bttvsearch |  | Search an emote on the BetterTTV website | User 
- | cock |  | Your cock size | User 
  | roll |  | Coin Flip | User 
  | color |  | Check Color of you or other users | User 
  | commands |  | Shows you a list of all my commands | User 
@@ -26,10 +25,6 @@
  | subemotes |  | Shows you all subemote of a streamer | user  
  | uptime |  | Shows the uptime of the stream | User 
  | xqcL |  | xqcL ascii | User
- | gaytest |  | GayTest in % | User
- | lesbiantest |  | LesbianTest in % | User
- | cock |  | Surely real size of your cock Okge | User
- | vagina |  | Surely real depth of your vagina Okge | User
  | iq |  | Surely your real iq | User
  | swag |  | Size of your swag | User
  | vanish |  | Vanishes you | User
